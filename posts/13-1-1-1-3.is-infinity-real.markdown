@@ -1,0 +1,77 @@
+---
+title: Is Infinity Real?
+---
+
+Date 13 : 1 ++ 1 ++ 1 ++ 3
+
+## Prelude : Exteriorities
+
+The question of whether infinity is real is but one representative among a large class of such questions about the ontology of various mathematical objects. Whether thinking alone about mathematics or listening to others think about it publicly, inevitably everyone gets granted the gift of experiencing the ground being shaken beneath at least one of many mathematical abstractions of varying degrees of artificiality and intuitiveness:
+
+Is zero real?
+If so, then my dear fellow, shew to me zero of your favorite farm animal.
+Checkmate, Archimedes!
+
+Are imaginary numbers real?
+Well, by definition they are not real, are they then?
+They belong with sedenions and spinors in St. Paul's hell.
+
+Are large cardinals real?
+Ask Skolem on a Tuesday.
+
+Are real numbers real?
+Suppose they are not. Then they are not real numbers, contradicting the assumption. Therefore they are real.
+
+Is infinity real?
+[Sophistry ensues]
+
+Are numbers real?
+All the kings horses, and all the kings men, couldn't put your blown mind together again.
+
+... and so forth.
+
+Undoubtedly, veritable mountains of works in analytic philosophy have devoted themselves tirelessly to task of twisting the rhetorical Rubik's Cube bricks of this line of inquiry until the face that faces them faces them with the favorable face of consistency, leaving another side an awkward six-color salad. I am almost as certain many papers have been written in this tradition classifying the various perspectives on this question into a taxonomy that would make an evolutionary biologist blush -- while incidentally slighting art historians and academic architects of their preciously short supply of *-isms* to be applied to their similarly piecemeal aggregations bound superficial by aesthetic phenotypes. Perhaps the laws laid down in the logic of speech will one day furnish the _orthos logos_ with which we may engage seamlessly in the experience of mathematical discourse without fear of having the ground torn from beneath our feet, and as would have been intuitive better to those who had not yet learned that the earth was round, leaving us to fall into the abyss of the undefined.
+
+I needed to get this personal sense of absurdity around questions of existence out of my system, even if I risked disrupting Russell's non-existent ghost into existence for my flippancy towards his legacy of having nearly erected a proof a mathematics from nothing, generously leaving the transcendental closure of this project as an exercise for his successors. As a bit of an psychoanalytic idealist, I am loathed to put the horse before the cart given I am all to aware that I am facing backwards _looking at the present through the rear-view mirror_. Worse, after having read enough of Lacan, I cannot help considering an assemblage of several mirrors, some of which are concave. Are we not caught in an illusion looking at the wall of a concave?
+
+All this aide, a far less metaphysical question can be raised about how infinity functions alongside concepts that seem foundationally different from it. Likewise, we may ask who zero is among the so-called naturals; real numbers have good reason to ask the imaginaries the proverbial _who you with?_ when they walk through the territory of sentimentally familiar algebraic formulae. How does infinity work? How does it give us some genuine conceptual leverage in our very pragmatist models of order, quantity, and measurement? The word that strikes me as the most central to grounding all of this in some clarity is one that, for me personally, opens the door to a flood of associations out of which emerges an infernal machine that churns burning beneath the hood of logic and language, leaving me always conceptually awestruck. This word -- sit down for this -- is *INTERNALIZATION*. [footnote: I risk some quantum of RSI to my right pinky to type this word in _all caps_ to martyr myself in act of casting into this word the greatest degree of graphological emphasis possible without resorting to the churlish histrionics of awkwardly changing the font size, like a conspiracy theorist or brooding teenager, fucking the otherwise remarkably adroitly responsive reflow of text as the reader standing on a subway rotates xer mobile device. We must make some trade-offs, and I can accept those of formatting and typesetting if I can contrastingly grant myself the full freedom to write obtusely as I know very well that I am; I promise you, not out of contempt for the reader, but for the opportunity to offer them something they might not have been unhappily greeted by at every corner of their daily labyrinth of banality].
+
+And with this self-referring _Vorstellung_ on the _Vorstellungen_ that illustrate the self-referring cold-metal mechanics of mathematical semiotics coming to a close, I will proceed in the *Fugue* of this essay to merely scratch the surface of *INTERNALIZATON*, a concept that hereafter I will abstain from adorning with the kitsch rubber clown mask of over-capitalization, especially because this is unlikely to yield much return on the capitalization already demanded under the miserly lordship of grammatical convention.
+
+## Fugue: Internalization
+
+The aesthetic rubric every contrapuntal draftsman submits themselves to would suggest that I begin with the presentation of the subject. I will begin with a Kleene quote; then perhaps balance it out later, in the interest of symmetry, with a quote about sodomy. In his introduction to mathematical logic, Kleene wages a preemptive war against what one could only imagine to be an anticipated interlocutor who might sadistically leave Kleene's precious project feted in doubt.
+[TODO: Kleene Quote]
+
+I cannot help but read a bit of defensiveness in this (p)reactionary (p)response. And yet, there is a tremendously powerful concept present here to be named like a newborn child, so as to be raised with some sense of dignity. Kleene's Mosaic hand trashes the tablet in a sudden infanticidal rage against a bastard idea that bears the face of a philosopher Kleene cannot accept as his own; particularly embarking upon such a canonical project of dealing the master's stroke on the subject of mathematical logic. Kleene wants to give the impression of a kleene start in formal logic, defining some basic syntactic mechanisms such as conjunction and disjunction and breathing into them the life of meaning: semantics.
+
+Let us recapitulate the context. We have perhaps the simplest connective one could conceive of, conjunction, with which we can construct inductively from two formulae \(\phi\) and \(\psi\) the formula
+\[\phi \mathbf{and} \psi\]
+We can declare, simply as a matter of syntax, that given a set of propositions \(\mathcal{L}\), and granted we have
+\[\phi\] is a member of \[\mathcal{L}\]
+and
+\[\psi\] is a member of \[\mathcal{L}\]
+we may conclude that
+\[\phi \mathbf{and} \psi\] is a member of \[\mathcal{L}\]
+Well fuck, we are already getting funny throwing around that word _and_ in service of directing the construction of \(\mathbf{and}\), let alone _is a member of_, and we haven't yet even begun to talk semantics. If we feel like we are in the cradle of self-evidence, we need only ask the former American president Bill J. about the definition of _is_, let alone bring up any discussion of the _member_ in question.
+
+Undeterred by the *Unbehagen* manifest in the countenance of the onlooking analytic philosopher, we will plow through the ambiguity forward into the subject of semantics. What does
+\[\phi \mathbf{and} \psi\]
+mean? We are granted that we already know \(\phi\) and \(\psi\) (_and_ there we go again with the _and_) are two _propositions_ that can be evaluated as _true_ or _false_, _and_ moreover, \(\phi \mathbf{and} \psi\) will be given this same status. We are left with only one thing to say:
+
+[formatting...]
+\(\phi \mathbf{and} \psi\) is _true_ means \(\phi\) is _true_ _and_ \(\psi\) is _true_.
+[/formatting...]
+
+Goddamn. Look what happened. We have \(\mathbf{and}\) defined in terms of _and_, not to mention that the copula has multiplied, which is after all a common consequence of copulation. So many syntactic games could be played to illustrated what here as much fascinatingly awkwardly as it is awkwardly fascinating. Let's do something subtle. Less we believe that we are the ideal subjects of enlightenment science, speaking in a universal register safely above and thus outside of the particular we speak of, we must accept that the corollary of Lacan's declaration that _there is no metalanguage_ is indeed his assertion that _the metalanguage is just language itself_. We have two distinguishable layers of syntax here. To simplify and make explicit this division, let us replace the term _x is true_ in our defining language, where _x_ is in the language of the defined, with \([[x]]\) [semantic brackets?] and rewrite our definition as 
+
+[formatting...]
+\([[\phi \mathbf{and} \psi]]\) means \([[\phi]]\) _and_ \([[\psi]]\).
+[/formatting...]
+
+What is happening here? Superficially, there is a formally, syntactically manifest notion of _inside_ and _outside_ present in this definition. \(\mathbf{and}\) is _inside_; _and_ is _outside_.
+
+
+
+ While in graduate school doing research on *dataflow* systems, a colleague of mine raised some skepticism about the concept of an *infinite stream* of data, asking why we needed to even consider it, given any manifestation of system ... [TODO: stream story explanation]
+
