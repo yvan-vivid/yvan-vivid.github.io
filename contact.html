@@ -17,7 +17,8 @@
           window.addEventListener('load', () => {
             nav = document.getElementById('navvz');
             window.addEventListener('scroll', () => {
-              if (window.scrollY > nav_thresh + 10) nav.classList.add('fixed');
+              if (window.screen.width <= 600) nav.classList.remove('fixed');
+              else if (window.scrollY > nav_thresh + 10) nav.classList.add('fixed');
               else if (window.scrollY < nav_thresh - 10) nav.classList.remove('fixed');
             });
           });
