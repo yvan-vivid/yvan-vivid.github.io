@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo-source.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 317.50001 317.50001"
+   height="1200"
+   width="1200">
+  <defs
+     id="defs2">
+    <rect
+       id="rect850"
+       height="366.058"
+       width="485.63814"
+       y="34.069558"
+       x="30.579393" />
+    <rect
+       id="rect835"
+       height="274.81364"
+       width="244.84186"
+       y="27.71251"
+       x="36.966718" />
+    <rect
+       x="30.579393"
+       y="34.069558"
+       width="485.63814"
+       height="366.058"
+       id="rect862" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="text833"
+     inkscape:document-units="px"
+     inkscape:cy="1038.8092"
+     inkscape:cx="735.43499"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1"
+     bordercolor="#ff0000"
+     pagecolor="#030000"
+     id="base">
+    <inkscape:grid
+       spacingy="13.229167"
+       spacingx="13.229167"
+       id="grid864"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g871">
+      <g
+         aria-label="Y"
+         transform="translate(13.484584,6.8341656)"
+         id="text833"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect835);fill:#000000;fill-opacity:1;stroke:none">
+        <text
+           xml:space="preserve"
+           id="text848"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect850);fill:#000000;fill-opacity:1;stroke:none;"
+           transform="matrix(1.1183461,0,0,1.200266,5.6953095,-34.383245)"><tspan
+             x="30.580078"
+             y="221.346"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:-0.679979px;fill:#ff0012;fill-opacity:1">Y</tspan></tspan></text>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect862);fill:#000000;fill-opacity:1;stroke:none"
+           id="text860"
+           transform="matrix(0.82201705,0,0,0.79999874,114.94564,67.443484)"
+           aria-label="v">
+          <path
+             sodipodi:nodetypes="ccccccc"
+             id="path873"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:-0.679979px;fill:#ff005d;fill-opacity:1;stroke-width:0.942809"
+             d="m 36.884613,105.59061 h 20.153841 l 36.173558,86.3572 36.173568,-86.3572 h 20.15384 L 93.212012,237.88249 Z" />
+        </g>
+      </g>
+    </g>
+    <rect
+       y="13.22915"
+       x="13.22915"
+       height="291.04169"
+       width="291.04169"
+       id="rect839"
+       style="fill:none;fill-opacity:1;stroke:#ff1800;stroke-width:26.45833417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
